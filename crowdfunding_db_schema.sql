@@ -1,4 +1,4 @@
-﻿CREATE TABLE "campaign" (
+CREATE TABLE "campaign" (
     "cf_id" int   NOT NULL,
     "contact_id" int   NOT NULL,
     "company_name" varchar(100)   NOT NULL,
